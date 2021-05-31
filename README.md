@@ -1,1 +1,1 @@
-# computerarchitecture
+# Parallelization with Openmp 
